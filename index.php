@@ -19,6 +19,7 @@
   <link href="lightbox.css" rel="stylesheet">
 
   <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script type='text/javascript' src="//wurfl.io/wurfl.js"></script>
   <script src="js/cheet.min.js"></script>
   <script src="js/basic.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>

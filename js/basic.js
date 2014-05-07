@@ -1,17 +1,20 @@
 $(document).ready(function() {
 
-  // Do stuff on scroll.
-  $(window).scroll(function () {
-    // Define section to move.
-    var sections = $('.sections');
-    // Don't do anything if we're passed the introduction.
-    if ($(window).scrollTop() < sections.offset().top) {
-      // Parallax effect.
-      sections.css({
-        'margin-top': -($(this).scrollTop() * 0.66) + "px"
-      });
-    }
-  });
+  // If it's not a mobile device.
+  if (!WURFL.is_mobile) {
+    // Do stuff on scroll.
+    $(window).scroll(function () {
+      // Define section to move.
+      var sections = $('.sections');
+      // Don't do anything if we're passed the introduction.
+      if ($(window).scrollTop() < sections.offset().top) {
+        // Parallax effect.
+        sections.css({
+          'margin-top': -($(this).scrollTop() * 0.66) + "px"
+        });
+      }
+    });
+  }
 
   // Konami-code.
   cheet('↑ ↑ ↓ ↓ ← → ← → b a', function () {
