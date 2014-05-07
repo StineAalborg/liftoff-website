@@ -46,3 +46,21 @@
   animation-name: $animation;
   animation-fill-mode: forwards; /* this prevents the animation from restarting! */
 }
+
+@mixin full {
+  @media (max-width: $site-width) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media (max-width: 900px) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media (max-width: 750px) {
+    @content;
+  }
+}

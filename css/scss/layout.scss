@@ -43,6 +43,7 @@ section {
   h1 {
     padding-bottom: 15px;
     color: #fff;
+    max-width: 80%;
   }
   p {
     font-size: 1.75em !important;
@@ -91,13 +92,21 @@ section {
         height: 1px;
         border: 0;
       }
+      h1 {
+        @include small {
+          font-size: 2.25em;
+        }
+      }
       p {
         max-width: $paragraph-width;
         text-align: center;
-        padding: 7px 0;
+        padding: 7px 20px;
         font-size: 1.3em;
         margin: 0 auto;
         width: auto;
+        @include small {
+          font-size: 1.2em;
+        }
       }
     }
     a {
@@ -133,7 +142,7 @@ section {
         #map {
           @include box-sizing(border-box);
           @include transition(.2s);
-          @include opacity(.6);
+          @include opacity(.05);
           height: 100%;
           width: 100%;
           &:hover {
@@ -150,20 +159,37 @@ section {
       max-width: $site-width;
       @include pie-clearfix;
       .person {
-        display: block;
-        float: left;
-        width: 33.33%;
-        margin: 0;
-        padding: 0 1%;
         @include box-sizing(border-box);
+        position: relative;
+        display: block;
+        padding: 0 1%;
+        width: 33.33%;
+        float: left;
+        margin: 0;
+        @include medium {
+          width: 100%;
+          margin-bottom: 20px;
+        }
         p {
-          margin-top: 15px;
+          max-width: $paragraph-width;
           text-align: center;
+          margin: 0 auto;
+          margin-top: 15px;
+          padding: 0 10px;
+          @include medium {
+            padding: 0 20px;
+          }
         }
         img {
           @include border-radius(50%);
           width: 50%;
           margin-left: 25%;
+          @include medium {
+            position: relative;
+            left: 50%;
+            margin-left: -100px;
+            max-width: 200px;
+          }
         }
       }
     }
@@ -185,6 +211,9 @@ section {
       padding: 0 1%;
       @include box-sizing(border-box);
       @include pie-clearfix;
+      @include small {
+        padding: 0 20px;
+      }
       // Headline
       h2 {
         margin: 30px 0;
@@ -193,14 +222,19 @@ section {
       // Text to the left
       .content {
         float: left;
+        @include small {
+          width: 100%;
+        }
       }
       // Contact form to the right
       form {
         @include box-sizing(border-box);
         float: right;
         width: 50%;
+        @include small {
+          width: 100%;
+        }
         .row {
-//          border-bottom: 1px dashed red;
           position: relative;
           margin-top: 10px;
           label {
@@ -314,7 +348,7 @@ section {
   width: 100%;
   @include transition(.4s);
 
-  @media (min-width: $site-width) {
+  @include full {
     @include box-sizing(border-box);
     padding: 0 1%;
   }
