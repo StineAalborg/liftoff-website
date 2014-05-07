@@ -24,14 +24,7 @@ section {
  * Introduction / Header.
  */
 .intro {
-  // For screens wider than 2280px.
-  @media all AND (min-width: 2281px) {
-    background-image: url('img/img_1821_low_dark.jpg');
-  }
-  // For screens smaller than 2280px.
-  @media all AND (max-width: 2280px) {
-    background-image: url('img/img_1821_low_dark-small.jpg');
-  }
+  background-image: url('img/img_1821_low_dark-small.jpg');
   background-position: center center;
   background-size: cover;
   position: absolute;
@@ -40,11 +33,6 @@ section {
   z-index: 2;
   left: 0;
   top: 0;
-  h1 {
-    padding-bottom: 15px;
-    color: #fff;
-    max-width: 80%;
-  }
   p {
     font-size: 1.75em !important;
     text-align: center;
@@ -346,8 +334,6 @@ section {
   max-height: 100%;
   overflow: hidden;
   width: 100%;
-  @include transition(.4s);
-
   @include full {
     @include box-sizing(border-box);
     padding: 0 1%;
