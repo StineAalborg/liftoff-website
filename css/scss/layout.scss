@@ -124,7 +124,7 @@ section {
       @include box-sizing(border-box);
       // The background behind the map.
       .maps-background {
-        background-image: url('img/img_1821_low_dark-small.jpg');
+        background-image: url('img/thelakes.jpg');
         background-position: center center;
         background-size: cover;
         height: 100%;
@@ -133,11 +133,11 @@ section {
         #map {
           @include box-sizing(border-box);
           @include transition(.2s);
-          @include opacity(.2);
+          @include opacity(.6);
           height: 100%;
           width: 100%;
           &:hover {
-            @include opacity(.85);
+            @include opacity(.9);
           }
         }
       }

@@ -39,9 +39,9 @@ section { width: 100%; height: 100%; display: block; position: relative; }
 .sections section a:after { content: ""; display: table; clear: both; }
 .sections section a img { width: 100%; }
 .sections section .google-maps { max-width: 1400px; display: block; margin: 0 auto; height: 600px; padding: 0 1%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-.sections section .google-maps .maps-background { background-image: url("img/img_1821_low_dark-small.jpg"); background-position: center center; background-size: cover; height: 100%; width: 100%; }
-.sections section .google-maps .maps-background #map { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; -webkit-transition: 0.2s; -moz-transition: 0.2s; -o-transition: 0.2s; transition: 0.2s; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20); opacity: 0.2; height: 100%; width: 100%; }
-.sections section .google-maps .maps-background #map:hover { filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=85); opacity: 0.85; }
+.sections section .google-maps .maps-background { background-image: url("img/thelakes.jpg"); background-position: center center; background-size: cover; height: 100%; width: 100%; }
+.sections section .google-maps .maps-background #map { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; -webkit-transition: 0.2s; -moz-transition: 0.2s; -o-transition: 0.2s; transition: 0.2s; filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=60); opacity: 0.6; height: 100%; width: 100%; }
+.sections section .google-maps .maps-background #map:hover { filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90); opacity: 0.9; }
 .sections section .people { max-width: 1400px; *zoom: 1; }
 .sections section .people:after { content: ""; display: table; clear: both; }
 .sections section .people .person { display: block; float: left; width: 33.33%; margin: 0; padding: 0 1%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
