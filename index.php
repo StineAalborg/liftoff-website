@@ -56,7 +56,7 @@
           kun 2500 kr pr. måned kunne dette skrivebord blive dit.
         </p>
       </div>
-      <img class="full" src="img/desk2.jpeg" alt="" />
+      <img class="full" src="img/thumbs/large/desk2.jpg" alt="" />
     </section>
 
     <section>
@@ -75,9 +75,9 @@
         </p>
       </div>
         <div class="images-3">
-          <a href="img/desk1.png" data-lightbox="desk"><img src="img/desk1.png" alt="" /></a>
-          <a href="img/desk2.jpeg" data-lightbox="desk"><img src="img/desk2.jpeg" alt="" /></a>
-          <a href="img/desk3.png" data-lightbox="desk"><img src="img/desk3.png" alt="" /></a>
+          <a href="img/desk1.jpg" data-lightbox="desk"><img src="img/thumbs/desk1.jpg" alt="" /></a>
+          <a href="img/desk2.jpg" data-lightbox="desk"><img src="img/thumbs/desk2.jpg" alt="" /></a>
+          <a href="img/desk3.jpg" data-lightbox="desk"><img src="img/thumbs/desk3.jpg" alt="" /></a>
         </div>
     </section>
 
@@ -93,12 +93,12 @@
         </p>
       </div>
       <div class="images-1">
-        <a href="img/lounge3.png" data-lightbox="lounge"><img src="img/lounge3.png" alt="" /></a>
+        <a href="img/lounge3.jpg" data-lightbox="lounge"><img src="img/thumbs/large/lounge3.jpg" alt="" /></a>
       </div>
       <div class="images-3">
-        <a href="img/lounge2.png" data-lightbox="lounge"><img src="img/lounge2.png" alt="" /></a>
-        <a href="img/lounge4.png" data-lightbox="lounge"><img src="img/lounge4.png" alt="" /></a>
-        <a href="img/lounge5.png" data-lightbox="lounge"><img src="img/lounge5.png" alt="" /></a>
+        <a href="img/lounge2.jpg" data-lightbox="lounge"><img src="img/thumbs/lounge2.jpg" alt="" /></a>
+        <a href="img/lounge4.jpg" data-lightbox="lounge"><img src="img/thumbs/lounge4.jpg" alt="" /></a>
+        <a href="img/lounge1.jpg" data-lightbox="lounge"><img src="img/thumbs/lounge1.jpg" alt="" /></a>
       </div>
     </section>
 
@@ -116,12 +116,12 @@
       </div>
 
       <div class="images-1">
-        <a href="img/coffee3.png" data-lightbox="coffee"><img src="img/coffee3.png" alt="" /></a>
+        <a href="img/coffee3.jpg" data-lightbox="coffee"><img src="img/thumbs/large/coffee3.jpg" alt="" /></a>
       </div>
       <div class="images-3">
-        <a href="img/coffee2.png" data-lightbox="coffee"><img src="img/coffee2.png" alt="" /></a>
-        <a href="img/coffee1.png" data-lightbox="coffee"><img src="img/coffee1.png" alt="" /></a>
-        <a href="img/coffee4.png" data-lightbox="coffee"><img src="img/coffee4.png" alt="" /></a>
+        <a href="img/coffee2.jpg" data-lightbox="coffee"><img src="img/thumbs/coffee2.jpg" alt="" /></a>
+        <a href="img/coffee1.jpg" data-lightbox="coffee"><img src="img/thumbs/coffee1.jpg" alt="" /></a>
+        <a href="img/coffee4.jpg" data-lightbox="coffee"><img src="img/thumbs/coffee4.jpg" alt="" /></a>
       </div>
     </section>
 
