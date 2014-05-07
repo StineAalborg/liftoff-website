@@ -27,4 +27,23 @@ $(document).ready(function() {
     container.trigger('click');
   });
 
+  /**
+   * This script will set a message after the contact/mail redirect.
+   */
+  // Container for mail-message.
+  var mailTarget = $('footer form button');
+  // Look for mail-success argument in the url.
+  if (window.location.href.search("#success") >= 0) {
+    // Go to the footer.
+    $('html, body').scrollTop($('footer').offset().top);
+    // Set success message & add class.
+    mailTarget.addClass('mail-success');
+  }
+  // Look for mail-error argument in the url.
+  else if (window.location.href.search("#error") >= 0) {
+    // Go to the footer.
+    $('html, body').scrollTop($('footer').offset().top);
+    // Set error message & add class.
+    mailTarget.addClass('mail-error');
+  }
 });
