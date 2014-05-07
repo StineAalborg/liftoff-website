@@ -1,0 +1,24 @@
+/** This file is for fonts. */
+/** General typography styling. */
+h1, h2, h3, h4, h5, h6, p, a, input, textarea { font-family: "Rokkitt", serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-size: 18px; }
+
+/** Headlines. */
+h1, h2, h3, h4, h5, h6 { font-family: "Gill Sans MS", "Helvetica Nueve", Helvetica, Arial; text-transform: uppercase; font-size: 18px; letter-spacing: 2px; margin-bottom: 10px; text-align: center; color: #444; }
+
+h1 { font-size: 3.00em; }
+
+h2 { font-size: 2.50em; }
+
+h3 { font-size: 2.00em; }
+
+h4 { font-size: 1.75em; }
+
+h5 { font-size: 1.50em; }
+
+h6 { font-size: 1.00em; }
+
+/** Body-text. */
+p, a { color: #666; }
+
+/** Form */
+input, button, textarea { font-family: "Gill Sans MS", "Helvetica Nueve", Helvetica, Arial; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-size: 18px; }

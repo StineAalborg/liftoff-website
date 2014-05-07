@@ -1,0 +1,80 @@
+@import "base";
+
+.splash-screen {
+  z-index:10;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: absolute;
+  top:0;
+  left:0;
+  background-color: rgba(255,255,255,1);
+  @include sanimation(2.4s, 0.4s, fade-out-splash);
+  .splash-plane {
+    position: absolute;
+    @include sanimation(0s, 3s, plane-takeoff);
+  }
+  .splash-logo {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -175px;
+    margin-top: -175px;
+    @include transform(scale(0));
+    @include sanimation(1.5s, 1s, show-logo);
+  }
+}
+
+@include keyframes(plane-takeoff) {
+  0%   {
+    bottom: -30%;
+    width:20%;
+    margin-left:40%;
+  }
+  100% {
+    bottom:160%;
+    width:100%;
+    margin-left: 0;
+  }
+}
+
+@include keyframes(show-logo) {
+  0% {
+    @include transform(scale(.1));
+    @include opacity(0);
+  }
+  85% {
+    @include opacity(1);
+    @include transform(scale(0.7));
+    margin-top: -230px;
+  }
+  99% {
+
+    //margin-top: 30px;
+  }
+  100% {
+    @include opacity(0);
+    @include transform(scale(0.7));
+    margin-top: -230px;
+  }
+}
+
+@include keyframes(fade-out-splash) {
+  0% {
+
+    //@include opacity(1);
+  }
+
+  // display:none can not be animated.
+  100% {
+    background-color: rgba(255,255,255,0);
+    width:  100%;
+    height: 100%;
+    //height: 0;
+    //width: 0;
+  }
+}
+
+
