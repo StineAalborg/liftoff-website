@@ -46,7 +46,7 @@ section { width: 100%; height: 100%; display: block; position: relative; }
 .sections section .people:after { content: ""; display: table; clear: both; }
 .sections section .people .person { display: block; float: left; width: 33.33%; margin: 0; padding: 0 1%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 .sections section .people .person p { margin-top: 15px; text-align: center; }
-.sections section .people .person img { -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; -o-border-radius: 50%; border-radius: 50%; width: 100%; }
+.sections section .people .person img { -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; -o-border-radius: 50%; border-radius: 50%; width: 50%; margin-left: 25%; }
 .sections footer { background-color: whitesmoke; border-top: 1px solid #999; margin-bottom: 60px; margin-top: 80px; width: 100%; }
 .sections footer .footer-content { max-width: 1400px; display: block; margin: 0 auto; padding: 0 1%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; *zoom: 1; }
 .sections footer .footer-content:after { content: ""; display: table; clear: both; }
