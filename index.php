@@ -177,7 +177,8 @@
           <p>Awesome stuff!</p>
         </div>
 
-        <form action="">
+        <form action="contact.php" method="post">
+          <p class="mail-target"></p>
           <div class="row name">
             <label for="">Navn</label>
             <div class="input-wrap">
@@ -193,7 +194,7 @@
           <div class="row phone">
             <label for="">Telefon</label>
             <div class="input-wrap">
-              <input type="tel" name="phone" placeholder="1337 1337" required/>
+              <input type="tel" name="phone" placeholder="1337 1337"/>
             </div>
           </div>
           <div class="row message">
@@ -202,7 +203,7 @@
               <textarea name="message" placeholder="Goose, Whose butt did you have to kiss to get in here?" required></textarea>
             </div>
           </div>
-          <button>Send</button>
+          <button></button>
         </form>
       </div>
     </footer>
