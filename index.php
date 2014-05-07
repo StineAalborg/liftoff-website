@@ -38,7 +38,7 @@
     <div class="content">
       <img class="" src="img/splash/liftoff-white.svg" />
       <p>
-        Co-working space in Copenhagen!
+        Kontorfællesskab i København
       </p>
     </div>
   </section>
@@ -48,12 +48,12 @@
     <section>
       <div class="content">
         <hr>
-        <h1>This could be your desk</h1>
+        <h1>En hverdag i fede omgivelser</h1>
         <p>
-          Looking for an exclusive co-working office-space with other creatives, programmers and web professionals?
+          LIFTOFF er et lille eksklusivt kontorfællesskab som ligger centralt placeret med udsigt over søerne på Frederiksberg-siden kun få minutters gang fra Forum Metro-station.
         </p>
         <p>
-          For only 2500 DKK / month, this could be yours.
+          kun 2500 kr pr. måned kunne dette skrivebord blive dit.
         </p>
       </div>
       <img class="full" src="img/desk2.jpeg" alt="" />
@@ -62,9 +62,16 @@
     <section>
       <div class="content">
         <hr>
-        <h1>Available desks</h1>
+        <h1>Faciliteter</h1>
         <p>
-          Bacon ipsum dolor sit amet spare ribs porchetta meatloaf turkey strip steak kevin sausage rump, chicken kielbasa pastrami shoulder shankle. Kielbasa ham hock sausage ham jerky pastrami sirloin turducken pancetta. Swine spare ribs tri-tip t-bone sausage. Capicola kevin sirloin, tail spare ribs shoulder sausage.
+          Vi tilbyder servicerede kontorfaciliteter med 14 pladser fordelt i små 2-4 mands kontorer. LIFTOFF er fordelt på 300 m2 og tilbyder ud over en fast kontorplads bl.a. møde- og konferencefaciliteter, café, fælles loungeområde, et fælles café-inspireret gårdmiljø med samt en række serviceydelser.
+          Vi har selvfølgelig også lynhurtigt fiber-internet, fantastisk kaffe og rigtig god catering hvis du vælger det til.
+        </p>
+        <p>
+          Det koster 2.500 kr + moms pr. måned for et bord (og stol ikke at forglemme). Dette giver dig en fast plads på kontoret og ret til at bruge mødelokaler samt fælles faciliteter.
+          Det dækker desuden også elforbrug, internet, rengøring, print, varme og anden drift.
+          Du skal bare selv medbringe din computer og evt. ekstern skærm mv.
+          Vi er fleksible mht. bindingsperiode osv.
         </p>
       </div>
         <div class="images-3">
@@ -77,9 +84,12 @@
     <section>
       <div class="content">
         <hr>
-        <h1>An awesome lounge</h1>
+        <h1>En god atmosfære med de rigtige mennesker</h1>
         <p>
-          Bacon ipsum dolor sit amet spare ribs porchetta meatloaf turkey strip steak kevin sausage rump, chicken kielbasa pastrami shoulder shankle. Kielbasa ham hock sausage ham jerky pastrami sirloin turducken pancetta. Swine spare ribs tri-tip t-bone sausage. Capicola kevin sirloin, tail spare ribs shoulder sausage.
+          Atmosfæren i LIFTOFF er professionel med en lidt sprælsk kant, og vi vil gerne skabe et socialt og fagligt miljø, hvor forventningen er, at beboerne kan drage fordele af hinandens kompetencer og netværk. LIFTOFF er drevet af <a href="http://reload.dk" target="_blank">webbureauet Reload</a>, og vi leder efter beboere som vi kan se har synergi med de andre virksomheder og med os.
+        </p>
+        <p>
+          Så er du selvstænding og arbejder med digitalt design, udvikling af apps, søgemaskine-optimering, tekstforfatning eller konvertering, så har vi måske en kontorplads til dig, hvis du/I er det rigtige match.
         </p>
       </div>
       <div class="images-1">
@@ -95,27 +105,16 @@
     <section>
       <div class="content">
         <hr>
-        <h1>Testing the shit out of this</h1>
+        <h1>Uden mad og drikke dur helten ikke</h1>
         <p>
-          Bacon ipsum dolor sit amet spare ribs porchetta meatloaf turkey strip steak kevin sausage rump, chicken kielbasa pastrami shoulder shankle. Kielbasa ham hock sausage ham jerky pastrami sirloin turducken pancetta. Swine spare ribs tri-tip t-bone sausage. Capicola kevin sirloin, tail spare ribs shoulder sausage.
+          For 200 kr + moms pr. måned være med på en ad libitum kaffe-, the- og frugtordning. Og vi er ret kaffe-tossede herinde, så vi kan godt love at det er god kaffe.
+        </p>
+        <p>
+          Vi har også en glimrende madordning, og her kan du på ugebasis vælge om du vil spise med (for kun 60 kr + moms pr kuvert).
+          Den vil blive serveret i caféen hvor du samtidig også vil have rig mulighed for at netværke med både LIFTOFF beboere og Reload.
         </p>
       </div>
-      <div class="images-grid">
-        <a href="img/lounge3.png" data-lightbox="grid"><img src="img/lounge3.png" alt="" /></a>
-        <a href="img/lounge2.png" data-lightbox="grid"><img src="img/lounge2.png" alt="" /></a>
-        <a href="img/lounge4.png" data-lightbox="grid"><img src="img/lounge4.png" alt="" /></a>
-        <a href="img/lounge5.png" data-lightbox="grid"><img src="img/lounge5.png" alt="" /></a>
-      </div>
-    </section>
 
-    <section>
-      <div class="content">
-        <hr>
-        <h1>We haz coffee!</h1>
-        <p>
-          Bacon ipsum dolor sit amet spare ribs porchetta meatloaf turkey strip steak kevin sausage rump, chicken kielbasa pastrami shoulder shankle. Kielbasa ham hock sausage ham jerky pastrami sirloin turducken pancetta. Swine spare ribs tri-tip t-bone sausage. Capicola kevin sirloin, tail spare ribs shoulder sausage.
-        </p>
-      </div>
       <div class="images-1">
         <a href="img/coffee3.png" data-lightbox="coffee"><img src="img/coffee3.png" alt="" /></a>
       </div>
@@ -129,9 +128,9 @@
     <section>
       <div class="content">
         <hr/>
-        <h1>We haz several lakez!</h1>
+        <h1>Et stenkast fra Søerne</h1>
         <p>
-          Bacon ipsum dolor sit amet spare ribs porchetta meatloaf turkey strip steak kevin sausage rump, chicken kielbasa pastrami shoulder shankle. Kielbasa ham hock sausage ham jerky pastrami sirloin turducken pancetta. Swine spare ribs tri-tip t-bone sausage. Capicola kevin sirloin, tail spare ribs shoulder sausage.
+          Vi ligger i et sweetspot lige ved søerne ned af en stille sidevej, Suomisvej. Kun få minutters gang fra Forum Metro station og med gratis to timers parkering for alle - og det er rent faktisk til at finde parkering. En fast parkeringslicens koster 200 kr pr. måned.
         </p>
       </div>
       <!-- Google maps -->
@@ -151,21 +150,21 @@
       </div>
       <div class="people">
         <div class="person">
+          <img src="img/people/lasse.jpg" alt=""/>
+          <p>
+            Lasse Skjold Bertelsen er daglig manager på Liftoff og tager sig af alt det praktiske. Det er ham du skal tage fat i hvis du har spørgsmål ;-)
+          </p>
+        </div>
+        <div class="person">
           <img src="img/people/rasmus.jpg" alt=""/>
           <p>
-            Bacon ipsum dolor sit amet spare ribs porchetta meatloaf turkey strip steak kevin sausage rump, chicken kielbasa pastrami shoulder shankle. Kielbasa ham hock sausage ham jerky pastrami sirloin turducken pancetta. Swine spare ribs tri-tip t-bone sausage. Capicola kevin sirloin, tail spare ribs shoulder sausage.
+            Rasmus Luckow-Nielsen - co-founder af Liftoff. Til daglig CEO i Reload.
           </p>
         </div>
         <div class="person">
           <img src="img/people/kasper.jpg" alt=""/>
           <p>
-            Bacon ipsum dolor sit amet spare ribs porchetta meatloaf turkey strip steak kevin sausage rump, chicken kielbasa pastrami shoulder shankle. Kielbasa ham hock sausage ham jerky pastrami sirloin turducken pancetta. Swine spare ribs tri-tip t-bone sausage. Capicola kevin sirloin, tail spare ribs shoulder sausage.
-          </p>
-        </div>
-        <div class="person">
-          <img src="img/people/lasses.jpg" alt=""/>
-          <p>
-            Bacon ipsum dolor sit amet spare ribs porchetta meatloaf turkey strip steak kevin sausage rump, chicken kielbasa pastrami shoulder shankle. Kielbasa ham hock sausage ham jerky pastrami sirloin turducken pancetta. Swine spare ribs tri-tip t-bone sausage. Capicola kevin sirloin, tail spare ribs shoulder sausage.
+            Kasper Garnæs - co-founder af Liftoff. Til daglig CTO i Reload.
           </p>
         </div>
       </div>
@@ -173,9 +172,9 @@
 
     <footer>
       <div class="footer-content">
-        <h2>So Y U no contact!?!</h2>
+        <h2>Tag endelig fat i os hvis du er interesseret</h2>
         <div class="content">
-          <p>Awesome stuff!</p>
+          <p>Spørgsmål er også meget velkomne. Du kan ringe til os på +045 22314771 og blive klogere.</p>
         </div>
 
         <form action="contact.php" method="post">
