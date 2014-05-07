@@ -1,6 +1,6 @@
 /** This file is for fonts. */
 /** General typography styling. */
-h1, h2, h3, h4, h5, h6, p, a, input, textarea { font-family: "Rokkitt", serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-size: 18px; }
+h1, h2, h3, h4, h5, h6, p, a, input, textarea, label { font-family: "Rokkitt", serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-size: 18px; }
 
 /** Headlines. */
 h1, h2, h3, h4, h5, h6 { font-family: "Gill Sans MS", "Helvetica Nueve", Helvetica, Arial; text-transform: uppercase; font-size: 18px; letter-spacing: 2px; margin-bottom: 10px; text-align: center; color: #444; }

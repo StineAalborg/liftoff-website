@@ -172,35 +172,54 @@ section {
    * Contact form.
    */
   footer {
-    width: 100%;
     background-color: $body-bg;
+    border-top: 1px solid #999;
+    margin-bottom: 60px;
+    margin-top: 80px;
+    width: 100%;
     .footer-content {
+      max-width: $site-width;
+      display: block;
+      margin: 0 auto;
       padding: 0 1%;
       @include box-sizing(border-box);
-      margin: 80px auto 60px auto;
-      display: block;
-      max-width: $site-width;
       @include pie-clearfix;
+      // Headline
       h2 {
-        color: #777;
+        margin: 30px 0;
+        color: #888;
       }
+      // Text to the left
       .content {
         float: left;
       }
+      // Contact form to the right
       form {
         @include box-sizing(border-box);
-        @include border-radius(4px);
-        @include box-shadow(inset 0 0 8px #c9c9c9);
-        background-color: #e9e9e9;
-        max-width: $site-width;
-        padding: 20px;
         float: right;
         width: 50%;
+        .row {
+//          border-bottom: 1px dashed red;
+          position: relative;
+          margin-top: 10px;
+          label {
+            position: absolute;
+            font-size: 1.2em;
+            top: 12px;
+            color: #444;
+          }
+          .input-wrap {
+            @include box-sizing(border-box);
+            width: 100%;
+            padding-left: 70px;
+          }
+        }
         // input, button & textarea
         input,
         button,
         textarea {
           font-family: $font-family-title;
+          font-size: 0.95em;
           border: none;
           padding: 0;
           margin: 0;
@@ -210,11 +229,9 @@ section {
         input,
         textarea {
           @include box-sizing(border-box);
-          @include border-radius(5px);
           width: 100%;
           color: #333;
-          margin-bottom: 10px;
-          padding: 10px;
+          padding: 12px;
           display: block;
           &::-webkit-input-placeholder {
             color: #999;
@@ -223,20 +240,26 @@ section {
         // textarea
         textarea {
           resize: vertical;
+          height: 150px;
         }
         // button
         button {
-          background-color: #15476b;
+          position: relative;
+          left: 50%;
+          margin-left: -21px;
+          background-color: $body-bg;
           text-align: center;
           text-transform: uppercase;
-          color: #fff;
+          border: 1px solid #333;
+          color: #333;
+          margin-top: 15px;
           font-size: 0.95em;
           padding: 10px 25px;
           cursor: pointer;
-          @include border-radius(4px);
           @include transition(.3s);
           &:hover {
             background-color: #333;
+            color: #fff;
           }
         }
       }
