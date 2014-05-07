@@ -44,7 +44,7 @@ if(!empty($name) && !empty($email) && !empty($message)) {
   // Set who the message is to be sent from
   $mail->setFrom($email, $name);
   // Set who the message is to be sent to
-  $mail->addAddress('andre@reload.dk', 'Liftoff Cph');
+  $mail->addAddress('liftoff@reload.dk', 'Liftoff Cph');
   // Set the subject line
   $mail->Subject = 'Liftoff Cph: ' .$name;
   // Message
