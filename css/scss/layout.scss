@@ -256,10 +256,46 @@ section {
           font-size: 0.95em;
           padding: 10px 25px;
           cursor: pointer;
-          @include transition(.3s);
+          @include transition(background-color .5s);
+          &:before {
+            content: 'Send';
+          }
           &:hover {
             background-color: #333;
             color: #fff;
+          }
+        }
+        .mail-success {
+          background-color: $reload-green;
+          border-color: $reload-green;
+          font-weight: bold;
+          color: #fff;
+          margin-left: -59px;
+          &:before {content:'Besked sendt';}
+          &:hover {
+            background-color: $body-bg;
+            border-color: #333;
+            padding: 10px 63px;
+            color: #333;
+            &:before {
+              content: 'Send';
+            }
+          }
+        }
+        .mail-error {
+          background-color: #ad1714;
+          border-color: #ad1714;
+          font-weight: bold;
+          color: #fff;
+          &:before {content: 'Fejl';}
+          &:hover {
+            background-color: $body-bg;
+            border-color: #333;
+            padding: 10px 22px;
+            color: #333;
+            &:before {
+              content: 'Send';
+            }
           }
         }
       }
