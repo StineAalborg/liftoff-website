@@ -177,7 +177,7 @@
           <p>Spørgsmål er også meget velkomne. Du kan ringe til os på +045 22314771 og blive klogere.</p>
         </div>
 
-        <form action="contact.php" method="post">
+        <form class="contact-form" action="contact.php" method="post">
           <p class="mail-target"></p>
           <div class="row name">
             <label for="">Navn</label>

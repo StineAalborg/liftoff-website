@@ -57,31 +57,28 @@ section { width: 100%; height: 100%; display: block; position: relative; }
 .sections footer .footer-content { max-width: 1400px; display: block; margin: 0 auto; padding: 0 1%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; *zoom: 1; }
 .sections footer .footer-content:after { content: ""; display: table; clear: both; }
 @media (max-width: 750px) { .sections footer .footer-content { padding: 0 20px; } }
-.sections footer .footer-content h2 { margin: 30px 0; color: #666; padding: 0 10px; }
-@media (max-width: 900px) { .sections footer .footer-content h2 { font-size: 2em; } }
+.sections footer .footer-content h2 { margin: 30px 0 15px 0; color: #666; padding: 0 10px; font-size: 2em; }
 @media (max-width: 750px) { .sections footer .footer-content h2 { font-size: 1.25em; } }
-.sections footer .footer-content .content { float: left; }
-@media (max-width: 750px) { .sections footer .footer-content .content { width: 100%; } }
-.sections footer .footer-content form { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; float: right; width: 50%; }
-@media (max-width: 750px) { .sections footer .footer-content form { width: 100%; } }
-.sections footer .footer-content form .row { position: relative; margin-top: 10px; }
-.sections footer .footer-content form .row label { position: absolute; font-size: 1.2em; top: 12px; color: #444; }
-.sections footer .footer-content form .row .input-wrap { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; padding-left: 70px; }
-.sections footer .footer-content form input, .sections footer .footer-content form button, .sections footer .footer-content form textarea { font-family: "Gill Sans MS", "Helvetica Nueve", Helvetica, Arial; font-size: 0.95em; border: none; padding: 0; margin: 0; outline: none; }
-.sections footer .footer-content form input, .sections footer .footer-content form textarea { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; color: #333; padding: 12px; display: block; }
-.sections footer .footer-content form input::-webkit-input-placeholder, .sections footer .footer-content form textarea::-webkit-input-placeholder { color: #999; }
-.sections footer .footer-content form textarea { resize: vertical; height: 150px; }
-.sections footer .footer-content form button { position: relative; left: 50%; margin-left: -21px; background-color: whitesmoke; text-align: center; text-transform: uppercase; border: 1px solid #333; color: #333; margin-top: 15px; font-size: 0.95em; padding: 10px 25px; cursor: pointer; -webkit-transition: background-color 0.5s; -moz-transition: background-color 0.5s; -o-transition: background-color 0.5s; transition: background-color 0.5s; }
-.sections footer .footer-content form button:before { content: 'Send'; }
-.sections footer .footer-content form button:hover { background-color: #333; color: #fff; }
-.sections footer .footer-content form .mail-success { background-color: #98be31; border-color: #98be31; font-weight: bold; color: #fff; margin-left: -59px; }
-.sections footer .footer-content form .mail-success:before { content: 'Besked sendt'; }
-.sections footer .footer-content form .mail-success:hover { background-color: whitesmoke; border-color: #333; padding: 10px 63px; color: #333; }
-.sections footer .footer-content form .mail-success:hover:before { content: 'Send'; }
-.sections footer .footer-content form .mail-error { background-color: #ad1714; border-color: #ad1714; font-weight: bold; color: #fff; }
-.sections footer .footer-content form .mail-error:before { content: 'Fejl'; }
-.sections footer .footer-content form .mail-error:hover { background-color: whitesmoke; border-color: #333; padding: 10px 22px; color: #333; }
-.sections footer .footer-content form .mail-error:hover:before { content: 'Send'; }
+.sections footer .footer-content .content { max-width: 700px; display: block; margin: 0 auto; text-align: center; margin-bottom: 15px; }
+.sections footer .footer-content .contact-form { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; max-width: 600px; margin: 0 auto; display: block; }
+.sections footer .footer-content .contact-form .row { position: relative; margin-top: 10px; }
+.sections footer .footer-content .contact-form .row label { position: absolute; font-size: 1.2em; top: 12px; color: #444; }
+.sections footer .footer-content .contact-form .row .input-wrap { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; padding-left: 70px; }
+.sections footer .footer-content .contact-form input, .sections footer .footer-content .contact-form button, .sections footer .footer-content .contact-form textarea { font-family: "Gill Sans MS", "Helvetica Nueve", Helvetica, Arial; font-size: 0.95em; border: none; padding: 0; margin: 0; outline: none; }
+.sections footer .footer-content .contact-form input, .sections footer .footer-content .contact-form textarea { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; color: #333; padding: 12px; display: block; }
+.sections footer .footer-content .contact-form input::-webkit-input-placeholder, .sections footer .footer-content .contact-form textarea::-webkit-input-placeholder { color: #999; }
+.sections footer .footer-content .contact-form textarea { resize: vertical; height: 150px; }
+.sections footer .footer-content .contact-form button { position: relative; left: 50%; margin-left: -21px; background-color: whitesmoke; text-align: center; text-transform: uppercase; border: 1px solid #333; color: #333; margin-top: 15px; font-size: 0.95em; padding: 10px 25px; cursor: pointer; -webkit-transition: background-color 0.5s; -moz-transition: background-color 0.5s; -o-transition: background-color 0.5s; transition: background-color 0.5s; }
+.sections footer .footer-content .contact-form button:before { content: 'Send'; }
+.sections footer .footer-content .contact-form button:hover { background-color: #333; color: #fff; }
+.sections footer .footer-content .contact-form .mail-success { background-color: #98be31; border-color: #98be31; font-weight: bold; color: #fff; margin-left: -59px; }
+.sections footer .footer-content .contact-form .mail-success:before { content: 'Besked sendt'; }
+.sections footer .footer-content .contact-form .mail-success:hover { background-color: whitesmoke; border-color: #333; padding: 10px 63px; color: #333; }
+.sections footer .footer-content .contact-form .mail-success:hover:before { content: 'Send'; }
+.sections footer .footer-content .contact-form .mail-error { background-color: #ad1714; border-color: #ad1714; font-weight: bold; color: #fff; }
+.sections footer .footer-content .contact-form .mail-error:before { content: 'Fejl'; }
+.sections footer .footer-content .contact-form .mail-error:hover { background-color: whitesmoke; border-color: #333; padding: 10px 22px; color: #333; }
+.sections footer .footer-content .contact-form .mail-error:hover:before { content: 'Send'; }
 
 /** Image-layouts. */
 .full { max-width: 1400px; max-height: 100%; overflow: hidden; width: 100%; }

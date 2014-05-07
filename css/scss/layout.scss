@@ -214,130 +214,127 @@ section {
       }
       // Headline
       h2 {
-        margin: 30px 0;
+        margin: 30px 0 15px 0;
         color: #666;
         padding: 0 10px;
-        @include medium {
-          font-size: 2em;
-        }
+        font-size: 2em;
         @include small {
           font-size: 1.25em;
         }
       }
       // Text to the left
       .content {
-        float: left;
-        @include small {
-          width: 100%;
-        }
+        max-width: $paragraph-width;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 15px;
       }
       // Contact form to the right
-      form {
-        @include box-sizing(border-box);
-        float: right;
-        width: 50%;
-        @include small {
-          width: 100%;
-        }
-        .row {
-          position: relative;
-          margin-top: 10px;
-          label {
-            position: absolute;
-            font-size: 1.2em;
-            top: 12px;
-            color: #444;
+        .contact-form {
+          @include box-sizing(border-box);
+          max-width: 600px;
+          margin: 0 auto;
+          display: block;
+          .row {
+            position: relative;
+            margin-top: 10px;
+            label {
+              position: absolute;
+              font-size: 1.2em;
+              top: 12px;
+              color: #444;
+            }
+            .input-wrap {
+              @include box-sizing(border-box);
+              width: 100%;
+              padding-left: 70px;
+            }
           }
-          .input-wrap {
+          // input, button & textarea
+          input,
+          button,
+          textarea {
+            font-family: $font-family-title;
+            font-size: 0.95em;
+            border: none;
+            padding: 0;
+            margin: 0;
+            outline: none;
+          }
+          // input & teaxtarea
+          input,
+          textarea {
             @include box-sizing(border-box);
             width: 100%;
-            padding-left: 70px;
+            color: #333;
+            padding: 12px;
+            display: block;
+            &::-webkit-input-placeholder {
+              color: #999;
+            }
           }
-        }
-        // input, button & textarea
-        input,
-        button,
-        textarea {
-          font-family: $font-family-title;
-          font-size: 0.95em;
-          border: none;
-          padding: 0;
-          margin: 0;
-          outline: none;
-        }
-        // input & teaxtarea
-        input,
-        textarea {
-          @include box-sizing(border-box);
-          width: 100%;
-          color: #333;
-          padding: 12px;
-          display: block;
-          &::-webkit-input-placeholder {
-            color: #999;
+          // textarea
+          textarea {
+            resize: vertical;
+            height: 150px;
           }
-        }
-        // textarea
-        textarea {
-          resize: vertical;
-          height: 150px;
-        }
-        // button
-        button {
-          position: relative;
-          left: 50%;
-          margin-left: -21px;
-          background-color: $body-bg;
-          text-align: center;
-          text-transform: uppercase;
-          border: 1px solid #333;
-          color: #333;
-          margin-top: 15px;
-          font-size: 0.95em;
-          padding: 10px 25px;
-          cursor: pointer;
-          @include transition(background-color .5s);
-          &:before {
-            content: 'Send';
+          // button
+          button {
+            position: relative;
+            left: 50%;
+            margin-left: -21px;
+            background-color: $body-bg;
+            text-align: center;
+            text-transform: uppercase;
+            border: 1px solid #333;
+            color: #333;
+            margin-top: 15px;
+            font-size: 0.95em;
+            padding: 10px 25px;
+            cursor: pointer;
+            @include transition(background-color .5s);
+            &:before {
+              content: 'Send';
+            }
+            &:hover {
+              background-color: #333;
+              color: #fff;
+            }
           }
-          &:hover {
-            background-color: #333;
+          .mail-success {
+            background-color: $reload-green;
+            border-color: $reload-green;
+            font-weight: bold;
             color: #fff;
-          }
-        }
-        .mail-success {
-          background-color: $reload-green;
-          border-color: $reload-green;
-          font-weight: bold;
-          color: #fff;
-          margin-left: -59px;
-          &:before {content:'Besked sendt';}
-          &:hover {
-            background-color: $body-bg;
-            border-color: #333;
-            padding: 10px 63px;
-            color: #333;
-            &:before {
-              content: 'Send';
+            margin-left: -59px;
+            &:before {content:'Besked sendt';}
+            &:hover {
+              background-color: $body-bg;
+              border-color: #333;
+              padding: 10px 63px;
+              color: #333;
+              &:before {
+                content: 'Send';
+              }
             }
           }
-        }
-        .mail-error {
-          background-color: #ad1714;
-          border-color: #ad1714;
-          font-weight: bold;
-          color: #fff;
-          &:before {content: 'Fejl';}
-          &:hover {
-            background-color: $body-bg;
-            border-color: #333;
-            padding: 10px 22px;
-            color: #333;
-            &:before {
-              content: 'Send';
+          .mail-error {
+            background-color: #ad1714;
+            border-color: #ad1714;
+            font-weight: bold;
+            color: #fff;
+            &:before {content: 'Fejl';}
+            &:hover {
+              background-color: $body-bg;
+              border-color: #333;
+              padding: 10px 22px;
+              color: #333;
+              &:before {
+                content: 'Send';
+              }
             }
           }
-        }
       }
     }
   }
