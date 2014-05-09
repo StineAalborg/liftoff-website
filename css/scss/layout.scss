@@ -114,16 +114,12 @@ section {
           font-size: 1.2em;
         }
       }
-    }
-    a {
-      font-family: arial, helvatica !important;
-      font-size: 0 !important;
-      padding: 0 1%;
-      float: left;
-      @include pie-clearfix;
-      @include box-sizing(border-box);
-      img {
-        width: 100%;
+      a {
+        color: #333;
+        @include transition(.3s);
+        &:hover {
+          color: $reload-green;
+        }
       }
     }
 
@@ -354,6 +350,24 @@ section {
 /**
  * Image-layouts.
  */
+.full,
+.images-1,
+.images-2,
+.images-3,
+.images-grid {
+  a {
+    font-family: arial, helvatica !important;
+    font-size: 0 !important;
+    padding: 0 1%;
+    float: left;
+    @include pie-clearfix;
+    @include box-sizing(border-box);
+    img {
+      width: 100%;
+    }
+  }
+}
+
 .full {
   max-width: $site-width;
   max-height: 100%;

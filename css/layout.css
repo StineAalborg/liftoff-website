@@ -38,9 +38,8 @@ section { width: 100%; height: 100%; display: block; position: relative; }
 @media (max-width: 750px) { .sections section .content h1 { font-size: 1.5em; } }
 .sections section .content p { max-width: 700px; text-align: center; padding: 7px 20px; font-size: 1.3em; margin: 0 auto; width: auto; }
 @media (max-width: 750px) { .sections section .content p { font-size: 1.2em; } }
-.sections section a { font-family: arial, helvatica !important; font-size: 0 !important; padding: 0 1%; float: left; *zoom: 1; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-.sections section a:after { content: ""; display: table; clear: both; }
-.sections section a img { width: 100%; }
+.sections section .content a { color: #333; -webkit-transition: 0.3s; -moz-transition: 0.3s; -o-transition: 0.3s; transition: 0.3s; }
+.sections section .content a:hover { color: #98be31; }
 .sections section .google-maps { max-width: 1400px; display: block; margin: 0 auto; height: 600px; padding: 0 1%; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 @media (max-width: 900px) { .sections section .google-maps { height: 400px; } }
 .sections section .google-maps .maps-background { background-image: url("img/thelakes.jpg"); background-position: center center; background-size: cover; height: 100%; width: 100%; }
@@ -82,6 +81,10 @@ section { width: 100%; height: 100%; display: block; position: relative; }
 .sections footer .footer-content .contact-form .mail-error:hover:before { content: 'Send'; }
 
 /** Image-layouts. */
+.full a, .images-1 a, .images-2 a, .images-3 a, .images-grid a { font-family: arial, helvatica !important; font-size: 0 !important; padding: 0 1%; float: left; *zoom: 1; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.full a:after, .images-1 a:after, .images-2 a:after, .images-3 a:after, .images-grid a:after { content: ""; display: table; clear: both; }
+.full a img, .images-1 a img, .images-2 a img, .images-3 a img, .images-grid a img { width: 100%; }
+
 .full { max-width: 1400px; max-height: 100%; overflow: hidden; width: 100%; }
 @media (max-width: 1400px) { .full { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; padding: 0 1%; } }
 
