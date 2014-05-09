@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- General meta-data (OG, viewport etc). -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,18 +15,24 @@
   <meta property="og:image" content="img/liftoff.png">
   <link rel="shortcut icon" href="img/favicon.ico">
 
+  <!-- Title -->
   <meta name="title" content="Liftoff - Få luft under vingerne med de dygtigste digitale konsulenter &amp; freelancere- i fede omgivelser ved SøerneLiftoff!">
 
+  <!-- Fonts -->
   <link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
   <link href="css/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- Stylesheets -->
   <link href="all.css" rel="stylesheet">
   <link href="lightbox.css" rel="stylesheet">
 
+  <!-- JS Vendor -->
   <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script type='text/javascript' src="//wurfl.io/wurfl.js"></script>
   <script src="js/cheet.min.js"></script>
-  <script src="js/basic.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
+  <!-- Custom JS scripts -->
+  <script src="js/basic.js"></script>
   <script src="js/google-maps.js"></script>
 
   <!-- Google Analytics -->
