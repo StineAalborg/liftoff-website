@@ -5,16 +5,18 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Liftoff.">
-  <meta name="keywords" content="Kontorfællesskab">
+  <meta name="description" content="Det går godt for webbureauet Reload, og vi får en hel etage til på 300 m2 i huset på Suomisvej 2 som vi ønsker at dele med nye legekammerater. Vi kalder det for Liftoff, og ser det som en startbane for unge digitale konsulenthuse med fagligheden i orden og ambitioner for fremtiden. Så er du selvstænding og arbejder med digitalt design, udvikling af apps, søgemaskine-optimering, tekstforfatning eller konvertering, så har vi måske en kontorplads til dig, hvis du/I er det rigtige match.">
+  <meta property="og:title" content="Liftoff - Få luft under vingerne med de dygtigste digitale konsulenter &amp; freelancere- i fede omgivelser ved SøerneLiftoff!">
+  <meta property="og:type" content="company">
+  <meta property="og:site_name" content="Liftoff - Få luft under vingerne med de dygtigste digitale konsulenter &amp; freelancere- i fede omgivelser ved SøerneLiftoff!">
+  <meta property="og:description" content="Det går godt for webbureauet Reload, og vi får en hel etage til på 300 m2 i huset på Suomisvej 2 som vi ønsker at dele med nye legekammerater. Vi kalder det for Liftoff, og ser det som en startbane for unge digitale konsulenthuse med fagligheden i orden og ambitioner for fremtiden. Så er du selvstænding og arbejder med digitalt design, udvikling af apps, søgemaskine-optimering, tekstforfatning eller konvertering, så har vi måske en kontorplads til dig, hvis du/I er det rigtige match.">
+  <meta property="og:url" content="http://liftoffcph.dk">
+  <meta property="og:image" content="img/liftoff.png">
+  <link rel="shortcut icon" href="img/favicon.ico">
 
-  <title>Liftoff</title>
+  <meta name="title" content="Liftoff - Få luft under vingerne med de dygtigste digitale konsulenter &amp; freelancere- i fede omgivelser ved SøerneLiftoff!">
 
   <link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="">
-  <link rel="shortcut icon" href="favicon.ico">
-
   <link href="all.css" rel="stylesheet">
   <link href="lightbox.css" rel="stylesheet">
 
@@ -23,7 +25,6 @@
   <script src="js/cheet.min.js"></script>
   <script src="js/basic.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
-
   <script src="js/google-maps.js"></script>
 
 </head>
