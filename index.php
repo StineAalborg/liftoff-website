@@ -42,6 +42,7 @@
       <p>
         Kontorfællesskab i København
       </p>
+      <i class="fa fa-angle-down"></i>
     </div>
   </section>
 
