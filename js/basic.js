@@ -38,14 +38,14 @@ $(document).ready(function() {
   // Look for mail-success argument in the url.
   if (window.location.href.search("#success") >= 0) {
     // Go to the footer.
-    $('html, body').scrollTop($('footer').offset().top);
+    $('html, body').scrollTop($(document).height());
     // Set success message & add class.
     mailTarget.addClass('mail-success');
   }
   // Look for mail-error argument in the url.
   else if (window.location.href.search("#error") >= 0) {
     // Go to the footer.
-    $('html, body').scrollTop($('footer').offset().top);
+    $('html, body').scrollTop($(document).height());
     // Set error message & add class.
     mailTarget.addClass('mail-error');
   }
