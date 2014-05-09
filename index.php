@@ -177,7 +177,7 @@
       <div class="footer-content">
         <h2>Tag endelig fat i os hvis du er interesseret</h2>
         <div class="content">
-          <p>Spørgsmål er også meget velkomne. Du kan ringe til os på +045 22314771 og blive klogere.</p>
+          <p>Spørgsmål er også meget velkomne. Du kan ringe til os på +45 22314771 og blive klogere.</p>
         </div>
 
         <form class="contact-form" action="contact.php" method="post">
@@ -197,7 +197,7 @@
           <div class="row phone">
             <label for="">Telefon</label>
             <div class="input-wrap">
-              <input type="tel" name="phone" placeholder="1337 1337"/>
+              <input type="tel" name="phone" placeholder="555-its-classified"/>
             </div>
           </div>
           <div class="row message">
