@@ -57,7 +57,7 @@
     <div class="content">
       <img class="" src="img/splash/liftoff-white.svg" />
       <p>
-        Kontorfællesskab i København
+        Kontorfællesskab på Frederiksberg
       </p>
       <i class="fa fa-angle-down"></i>
     </div>
@@ -73,7 +73,7 @@
           LIFTOFF er et lille eksklusivt kontorfællesskab som ligger centralt placeret med udsigt over søerne på Frederiksberg-siden kun få minutters gang fra Forum Metro-station.
         </p>
         <p>
-          kun 2500 kr pr. måned kunne dette skrivebord blive dit.
+          For kun 2500 kr pr. måned kunne dette skrivebord blive dit.
         </p>
       </div>
       <img class="full" src="img/thumbs/large/desk2.jpg" alt="" />
@@ -150,7 +150,7 @@
         <hr/>
         <h1>Et stenkast fra Søerne</h1>
         <p>
-          Vi ligger i et sweetspot lige ved søerne ned af en stille sidevej, Suomisvej. Kun få minutters gang fra Forum Metro station og med gratis to timers parkering for alle - og det er rent faktisk til at finde parkering. En fast parkeringslicens koster 200 kr pr. måned.
+          Vi ligger i et sweetspot lige ved søerne ned af en stille sidevej, Suomisvej nr. 2, 3. sal. Kun få minutters gang fra Forum Metro station og med gratis to timers parkering for alle - og det er rent faktisk til at finde parkering. En fast parkeringslicens koster 200 kr pr. måned.
         </p>
       </div>
       <!-- Google maps -->
@@ -195,6 +195,7 @@
         <h2>Tag endelig fat i os hvis du er interesseret</h2>
         <div class="content">
           <p>Spørgsmål er også meget velkomne. Du kan ringe til os på +45 22314771 og blive klogere.</p>
+          <p>Vores adresse er: Suomisvej 2, 3. sal, DK-1927 Frederiksberg</p>
         </div>
 
         <form class="contact-form" action="contact.php" method="post">
