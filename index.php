@@ -16,7 +16,7 @@
   <link rel="shortcut icon" href="img/favicon.ico">
 
   <!-- Title -->
-  <meta name="title" content="Liftoff - Få luft under vingerne med de dygtigste digitale konsulenter &amp; freelancere- i fede omgivelser ved SøerneLiftoff!">
+  <meta name="title" content="Liftoff - Få luft under vingerne med de dygtigste digitale konsulenter &amp; freelancere- i fede omgivelser ved Søerne">
 
   <!-- Fonts -->
   <link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
