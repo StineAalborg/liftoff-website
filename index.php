@@ -73,7 +73,7 @@
           LIFTOFF er et lille eksklusivt kontorfællesskab som ligger centralt placeret med udsigt over søerne på Frederiksberg-siden kun få minutters gang fra Forum Metro-station.
         </p>
         <p>
-          For kun 2500 kr pr. måned kunne dette skrivebord blive dit.
+          For kun 2500 kr. pr. måned + moms kan dette skrivebord blive dit.
         </p>
       </div>
       <img class="full" src="img/thumbs/large/desk2.jpg" alt="" />
@@ -84,12 +84,12 @@
         <hr>
         <h1>Faciliteter</h1>
         <p>
-          Vi tilbyder servicerede kontorfaciliteter med 14 pladser fordelt i små 2-4 mands kontorer. LIFTOFF er fordelt på 300 m2 og tilbyder ud over en fast kontorplads bl.a. møde- og konferencefaciliteter, café, fælles loungeområde, et fælles café-inspireret gårdmiljø med samt en række serviceydelser.
-          Vi har selvfølgelig også lynhurtigt fiber-internet, fantastisk kaffe og rigtig god catering hvis du vælger det til.
+          Vi tilbyder servicerede kontorfaciliteter med 14 pladser fordelt i små 2-4 mands kontorer. LIFTOFF er fordelt på 300 m2 og tilbyder udover en fast kontorplads bl.a. møde- og konferencefaciliteter, café, fælles loungeområde, et fælles café-inspireret gårdmiljø samt en række serviceydelser.
+          Vi har selvfølgelig også lynhurtigt fiber-internet, fantastisk kaffe og rigtig god catering, hvis du vælger det til.
         </p>
         <p>
-          Det koster 2.500 kr + moms pr. måned for et bord (og stol ikke at forglemme). Dette giver dig en fast plads på kontoret og ret til at bruge mødelokaler samt fælles faciliteter.
-          Det dækker desuden også elforbrug, internet, rengøring, print, varme og anden drift.
+          Det koster 2.500 kr. + moms pr. måned for et bord (og stol ikke at forglemme). Dette giver dig en fast plads på kontoret og ret til at bruge mødelokaler samt fælles faciliteter.
+          2.500 kr. + moms dækker desuden også elforbrug, internet, rengøring, print, varme og anden drift.
           Du skal bare selv medbringe din computer og evt. ekstern skærm mv.
           Vi er fleksible mht. bindingsperiode osv.
         </p>
@@ -127,7 +127,7 @@
         <hr>
         <h1>Uden mad og drikke dur helten ikke</h1>
         <p>
-          For 200 kr + moms pr. måned være med på en ad libitum kaffe-, the- og frugtordning. Og vi er ret kaffe-tossede herinde, så vi kan godt love at det er god kaffe.
+          For 200 kr. + moms pr. måned være med på en ad libitum kaffe-, the- og frugtordning. Og vi er ret kaffe-tossede herinde, så vi kan godt love at det er god kaffe.
         </p>
         <p>
           Vi har også en glimrende madordning, og her kan du på ugebasis vælge om du vil spise med (for kun 60 kr + moms pr kuvert).
@@ -150,7 +150,7 @@
         <hr/>
         <h1>Et stenkast fra Søerne</h1>
         <p>
-          Vi ligger i et sweetspot lige ved søerne ned af en stille sidevej, Suomisvej nr. 2, 3. sal. Kun få minutters gang fra Forum Metro station og med gratis to timers parkering for alle - og det er rent faktisk til at finde parkering. En fast parkeringslicens koster 200 kr pr. måned.
+          Vi ligger i et sweetspot lige ved søerne ned af en stille sidevej, Suomisvej nr. 2, 3. sal. Kun få minutters gang fra Forum Metro station og med gratis to timers parkering for alle - og det er rent faktisk til at finde parkering. En fast parkeringslicens koster 200 kr. pr. måned.
         </p>
       </div>
       <!-- Google maps -->

@@ -116,6 +116,7 @@ section {
       }
       a {
         color: #333;
+        font-size: 1em;
         @include transition(.3s);
         &:hover {
           color: $reload-green;
