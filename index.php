@@ -63,7 +63,7 @@
     </div>
   </section>
 
-  <div class="sections">
+  <div class="sections" id="intro">
 
     <section>
       <div class="content">
@@ -79,7 +79,7 @@
       <img class="full" src="img/thumbs/large/desk2.jpg" alt="" />
     </section>
 
-    <section>
+    <section id="facilities">
       <div class="content">
         <hr>
         <h1>Faciliteter</h1>
@@ -101,7 +101,7 @@
         </div>
     </section>
 
-    <section>
+    <section id="atmosphere">
       <div class="content">
         <hr>
         <h1>En god atmosfære med de rigtige mennesker</h1>
@@ -122,7 +122,7 @@
       </div>
     </section>
 
-    <section>
+    <section id="treat">
       <div class="content">
         <hr>
         <h1>Uden mad og drikke dur helten ikke</h1>
@@ -145,7 +145,7 @@
       </div>
     </section>
 
-    <section>
+    <section id="location">
       <div class="content">
         <hr/>
         <h1>Et stenkast fra Søerne</h1>
@@ -163,7 +163,7 @@
       </div>
     </section>
 
-    <section>
+    <section id="pilots">
       <div class="content">
         <hr/>
         <h1>Piloterne</h1>
