@@ -105,7 +105,7 @@
       <div class="content">
         <hr>
         <h1>En god atmosfære med de rigtige mennesker</h1>
-        <p>
+        <p> TEST!
           Atmosfæren i LIFTOFF er professionel med en lidt sprælsk kant, og vi vil gerne skabe et socialt og fagligt miljø, hvor forventningen er, at beboerne kan drage fordele af hinandens kompetencer og netværk. LIFTOFF er drevet af <a href="http://reload.dk" target="_blank">webbureauet Reload</a>, og vi leder efter beboere som vi kan se har synergi med de andre virksomheder og med os.
         </p>
         <p>
