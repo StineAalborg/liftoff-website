@@ -73,7 +73,7 @@
           LIFTOFF er et lille eksklusivt kontorfællesskab som ligger centralt placeret med udsigt over søerne på Frederiksberg-siden kun få minutters gang fra Forum Metro-station.
         </p>
         <p>
-          For kun 2500 kr. pr. måned + moms kan dette skrivebord blive dit.
+          For kun 2500 kr. pr. måned + moms kan dette skrivebord blive dit. Interesseret? Så ring til os på tlf.: +45 22 31 47 71.
         </p>
       </div>
       <img class="full" src="img/thumbs/large/desk2.jpg" alt="" />
@@ -89,7 +89,7 @@
         </p>
         <p>
           Det koster 2.500 kr. + moms pr. måned for et bord (og stol ikke at forglemme). Dette giver dig en fast plads på kontoret og ret til at bruge mødelokaler samt fælles faciliteter.
-          2.500 kr. + moms dækker desuden også elforbrug, internet, rengøring, print, varme og anden drift.
+          Beløbet dækker desuden også elforbrug, internet, rengøring, print, varme og anden drift.
           Du skal bare selv medbringe din computer og evt. ekstern skærm mv.
           Vi er fleksible mht. bindingsperiode osv.
         </p>
@@ -106,10 +106,10 @@
         <hr>
         <h1>En god atmosfære med de rigtige mennesker</h1>
         <p>
-          Atmosfæren i LIFTOFF er professionel med en lidt sprælsk kant, og vi vil gerne skabe et socialt og fagligt miljø, hvor forventningen er, at beboerne kan drage fordele af hinandens kompetencer og netværk. LIFTOFF er drevet af <a href="http://reload.dk" target="_blank">webbureauet Reload</a>, og vi leder efter beboere som vi kan se har synergi med de andre virksomheder og med os.
+          Atmosfæren i LIFTOFF er professionel med en lidt sprælsk kant. Vi vil gerne skabe et socialt og fagligt miljø, hvor beboerne kan drage fordele af hinandens kompetencer og netværk. LIFTOFF er drevet af <a href="http://reload.dk" target="_blank">webbureauet Reload</a>, og vi leder efter beboere som vi kan se har synergi med de andre virksomheder og med os.
         </p>
         <p>
-          Så er du selvstænding og arbejder med digitalt design, udvikling af apps, søgemaskine-optimering, tekstforfatning eller konvertering, så har vi måske en kontorplads til dig, hvis du/I er det rigtige match.
+          Så er du selvstændig og arbejder med digitalt design, udvikling af apps, søgemaskine-optimering, tekstforfatning eller konvertering, så har vi måske en kontorplads til dig.
         </p>
       </div>
       <div class="images-1">
@@ -127,11 +127,11 @@
         <hr>
         <h1>Uden mad og drikke dur helten ikke</h1>
         <p>
-          For 200 kr. + moms pr. måned være med på en ad libitum kaffe-, the- og frugtordning. Og vi er ret kaffe-tossede herinde, så vi kan godt love at det er god kaffe.
+          For 200 kr. + moms pr. måned kan du være med på en ad libitum kaffe-, the- og frugtordning. Herinde vi er ret kaffe-tossede herinde, så vi tør godt love, at det er god kaffe.
         </p>
         <p>
-          Vi har også en glimrende madordning, og her kan du på ugebasis vælge om du vil spise med (for kun 60 kr + moms pr kuvert).
-          Den vil blive serveret i caféen hvor du samtidig også vil have rig mulighed for at netværke med både LIFTOFF beboere og Reload.
+          Vi har også en glimrende madordning og du kan på ugebasis vælge om du vil spise med (for kun 60 kr + moms pr. kuvert).
+          Maden bliver serveret i caféen, hvor du samtidig også vil have rig mulighed for at netværke med både LIFTOFF-beboere og Reload.
         </p>
       </div>
 
@@ -150,7 +150,8 @@
         <hr/>
         <h1>Et stenkast fra Søerne</h1>
         <p>
-          Vi ligger i et sweetspot lige ved søerne ned af en stille sidevej, Suomisvej nr. 2, 3. sal. Kun få minutters gang fra Forum Metro station og med gratis to timers parkering for alle - og det er rent faktisk til at finde parkering. En fast parkeringslicens koster 200 kr. pr. måned.
+          
+          Vi ligger i et sweetspot på Suomisvej nr. 2, 3. sal. En stille sidevej lige ved søerne - kun få minutters gang fra Forum Metrostation. Er du i bil, så er det rent faktisk til at finde parkering - to timers gratis parkering for alle. En fast parkeringslicens koster 200 kr. pr. måned.
         </p>
       </div>
       <!-- Google maps -->
@@ -172,19 +173,19 @@
         <div class="person">
           <img src="img/people/lasse.jpg" alt=""/>
           <p>
-            Lasse Skjold Bertelsen er daglig manager på Liftoff og tager sig af alt det praktiske. Det er ham du skal tage fat i hvis du har spørgsmål ;-)
+            Lasse Skjold Bertelsen er daglig manager på LIFTOFF og tager sig af alt det praktiske. Det er ham, du skal tage fat i, hvis du har spørgsmål.
           </p>
         </div>
         <div class="person">
           <img src="img/people/rasmus.jpg" alt=""/>
           <p>
-            Rasmus Luckow-Nielsen - co-founder af Liftoff. Til daglig CEO i Reload.
+            Rasmus Luckow-Nielsen - co-founder af LIFTOFF. Til daglig CEO i Reload.
           </p>
         </div>
         <div class="person">
           <img src="img/people/kasper.jpg" alt=""/>
           <p>
-            Kasper Garnæs - co-founder af Liftoff. Til daglig CTO i Reload.
+            Kasper Garnæs - co-founder af LIFTOFF. Til daglig CTO i Reload.
           </p>
         </div>
       </div>
@@ -192,9 +193,9 @@
 
     <footer>
       <div class="footer-content">
-        <h2>Tag endelig fat i os hvis du er interesseret</h2>
+        <h2>Tag endelig fat i os, hvis du er interesseret</h2>
         <div class="content">
-          <p>Spørgsmål er også meget velkomne. Du kan ringe til os på +45 22314771 og blive klogere.</p>
+          <p>Spørgsmål er også meget velkomne. Du kan ringe til os på +45 22 31 47 71 og blive klogere.</p>
           <p>Vores adresse er: Suomisvej 2, 3. sal, DK-1927 Frederiksberg</p>
         </div>
 
